@@ -1,0 +1,16 @@
+{
+  "name": "openclerk/coinbase-oauth2",
+  "description": "Coinbase Provider for the OAuth 2.0 Client",
+  "autoload": {
+    "psr-4": {
+      "Openclerk\\OAuth2\\Client\\": "src",
+      "Openclerk\\OAuth2\\Client\\Test\\": "src"
+    }
+  },
+  "require": {
+    "league/oauth2-client": "0.10.*"
+  },
+  "require-dev": {
+    "soundasleep/component-tests": "dev-master"
+  }
+}
