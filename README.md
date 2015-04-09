@@ -1,8 +1,8 @@
 openclerk/coinbase-oauth2
 =========================
 
-Implementation of a Coinbase OAuth2 2.0 provider
-for the [league/oauth2-client](https://github.com/thephpleague/oauth2-client) OAuth 2.0 client.
+Implementation of a Coinbase OAuth 2.0 provider
+for the [league/oauth2-client](https://github.com/thephpleague/oauth2-client) client.
 
 ## Installing
 
